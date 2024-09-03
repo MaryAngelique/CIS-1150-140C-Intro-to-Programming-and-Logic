@@ -10,4 +10,4 @@ if __name__ == "__main__":
         print(num % 10 == 0)
     else:
         print("greater than 100")
-        print(num % 100 == 0)
+        print(num % 100 == 0) 
